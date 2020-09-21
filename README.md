@@ -1,5 +1,6 @@
 # lockdownLearnFromHome2020
 lockdownLearnFromHome2020
 
-Madhumita Daw
+Simple website for sharing educational materials with students. 
 
+Madhumita Daw
